@@ -53,3 +53,4 @@ Templates, db and sql-alchemy
 
 - I’ll add it after the next sessions
 
+> I had mistakenly said that the names of certain files had to be the ones I mentioned. That is not the case. You can name it whatever you want as long as you import it correctly. Sorry for the error.
